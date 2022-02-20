@@ -3,4 +3,5 @@ project(NumericalMethods)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(NumericalMethods firstLab/main.cpp)
+add_subdirectory(firstLab)
+add_subdirectory(secondLab)
