@@ -5,3 +5,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_subdirectory(firstLab)
 add_subdirectory(secondLab)
+add_subdirectory(thirdLab)
+add_subdirectory(fourthLab)
