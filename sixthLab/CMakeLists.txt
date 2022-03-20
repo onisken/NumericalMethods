@@ -1,0 +1,1 @@
+add_executable(Sixth main.cpp main.cpp)
